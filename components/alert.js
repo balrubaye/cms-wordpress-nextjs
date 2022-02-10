@@ -24,7 +24,7 @@ export default function Alert({ preview }) {
               to exit preview mode.
             </>
           ) : (
-           <spa> test </span>
+           <span> test </span>
           )}
         </div>
       </Container>
