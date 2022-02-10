@@ -4,5 +4,5 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 ## Demo
 
-### https://cms-wordpress-nextjs-two.vercel.app/](https://cms-wordpress-nextjs-two.vercel.app/)
+### https://cms-wordpress-nextjs-two.vercel.app/
 
